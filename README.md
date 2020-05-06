@@ -22,4 +22,4 @@ Repository for Top/Intro Scientific Program(16362) project
 <br/>As the first step, we came up with a scatter plot of the yield value for each coordinate. After that, an general analysis of the dataset was made, the variables were submitted to a histogram. For each variable were stablished a reasonable lower and higher boundry. At the final output, the filtered dataset were submitted to an interpolation and saved in a .csv file.</br>
 
 ### Sketch
-![image](sketch.png)
+![](https://github.com/leticiabsan/Semester-project/blob/master/sketch.jpg)
