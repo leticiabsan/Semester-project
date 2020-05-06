@@ -1,7 +1,7 @@
 # Semester-project
 Repository for Top/Intro Scientific Program(16362) project
 
-# _Filtering yield data_
+# Filtering yield data
 
 <br/>_*Name:*_ Letícia Santos</br>
 <br/>_*Semester:*_ Spring 2020</br>
